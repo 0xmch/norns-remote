@@ -5,6 +5,8 @@ keys and knobs, the way [m8c](https://github.com/laamaa/m8c) works for the
 Dirtywave M8: the norns sends what is on its screen as data, not video, and the
 page draws it.
 
+The write-up: [norns-remote: the norns screen in a browser](https://0xmch.xyz/posts/02-norns-remote/).
+
 ![norns-remote in a browser window](docs/screenshot.png)
 
 - **Pixel-exact:** the screen is 128×64 pixels in 16 levels, and the page draws
